@@ -25,4 +25,4 @@ Financial fraud causes major losses in digital transactions. The goal is to buil
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python main.py
+python code file.py
